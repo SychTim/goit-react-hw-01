@@ -1,0 +1,22 @@
+.table {
+    width: 600px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.row {
+    background-color: white;
+}
+
+.row:nth-child(2n) {
+    background-color: rgb(169, 169, 169);
+}
+
+.tHead {
+    color: aliceblue;
+    background-color: rgb(62, 62, 62);
+}
+
+.tData {
+    text-align: center;
+}
